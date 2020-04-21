@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Assignments</string>
+    <string name="title_activity_navigation_base">NavigationBaseActivity</string>
+
+    <!--menu-->
+    <!--bottom optiona menu-->
+    <string name="title_delete_all">Delete All</string>
+    <string name="title_about">About</string>
+
+    <!-- assignment option menu-->
+    <string name="option_edit">Edit</string>
+    <string name="option_delete">Delete</string>
+
+    <!--Assignment Item-->
+    <string name="due_by">Due by:</string>
+</resources>
